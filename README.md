@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SantySan7
+- 👋 Hi, I’m Santy
 - 👀 I’m interested in Computer Vision and Deep Learning, for real-time applications.
 - 🌱 I’m currently working with video object detection in very challenging scenarios.
 - 💞️ I’m  working on my research with my corporate team.

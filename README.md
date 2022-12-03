@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Santy
-- 👀 I’m interested in Computer Vision and Deep Learning, for real-time applications.
-- 🌱 I’m currently working with video object detection in very challenging scenarios.
-- 💞️ I’m  working on my research with my corporate team.
+- 👀 I’m interested in Computer Vision and Deep Learning, to develop solutions for real-time applications.
 - 📫 How to reach me ...
 
 <!---

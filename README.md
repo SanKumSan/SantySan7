@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Santy with Masters degree in Informatik
-- 👀 Machine Learning understanding and interested in mathematics, GPU and CUDA
+- 👀 Machine Learning understanding and interested in mathematics, Images, Text, GPU and CUDA
 - 📫 Love to develop solutions for Computer Vision based Deep Learning tasks for production and real-time applications.
-- 📫 High motivation to code. Python and C#, in general like Object-oriented programming
-- 📫 Exerience with Cloud and Orchestration.
+- 📫 High motivation to code. Python and C#, in general like concept of Object-oriented programming
+- 📫 Exerience with Cloud and Orchestration, Network administration, Windwos and Linux
 - 📫 Process needs good documentation.
 
 <!---
